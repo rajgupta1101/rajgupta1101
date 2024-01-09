@@ -1,22 +1,22 @@
-### Hi there, My self Naman Tamrakar  👋
-![](https://komarev.com/ghpvc/?username=namantam1&label=PROFILE+VIEWS&color=ff69b4)
+### Hi there, My self Raj Gupta  👋
+![](https://komarev.com/ghpvc/?username=rajgupta1101&label=PROFILE+VIEWS&color=ff69b4)
 
 ## I'm an Aspiring Fullstack Web Developer!!
 <!-- - 🔭 I am  -->
 - 🤔 I’m looking for help to create an open source project for Django Socket.io.
 - 🌱 I’m currently learning Algorithm 📚
 - 📙 Education: Pursuing **B.Tech** from **Nation Institute of Technology, Warangal**
-- 💬 Ask me about [Django](https://www.djangoproject.com), [React](https://reactjs.org).
+- 💬 Ask me about [JavaScript](https://www.javaScript.com), [React](https://reactjs.org).
 - ⚡ Fun fact: My hobby is also **coding**.
 
 <br/>
 
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=namantam1&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10)|![](https://github-readme-stats.vercel.app/api?username=namantam1&show_icons=true&locale=en&theme=radical&private_count=true)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupta1101&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10)|![](https://github-readme-stats.vercel.app/api?username=rajgupta1101&show_icons=true&locale=en&theme=radical&private_count=true)|
 |--------|--------|
 
-![](https://github-readme-streak-stats.herokuapp.com?user=namantam1&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com?user=rajgupta1101&theme=radical)
 
-<!-- [![Naman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@namantam1)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Naman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rajgupta1101)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <h3 align="left">Languages and Tools I used most:</h3>
@@ -59,7 +59,7 @@
 
 
 <!--
-**namantam1/namantam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rajgupta1101/rajgupta1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
