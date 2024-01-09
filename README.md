@@ -16,7 +16,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=rajgupta1101&theme=radical)
 
-<!-- [![Naman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rajgupta1101)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Raj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rajgupta1101)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <h3 align="left">Languages and Tools I used most:</h3>
