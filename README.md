@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there, My self Raj Gupta 👋
 
-<!--
-**rajgupta1101/rajgupta1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm an Aspiring Fullstack Web Developer!!
+🤔 I’m looking for help to create an open source project for Django Socket.io.
+🌱 I’m currently learning Algorithm 📚
+📙 Education: Pursuing B.Tech from Nation Institute of Technology, Warangal
+💬 Ask me about JavaScript, and React.
+⚡ Fun fact: My hobby is also coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	
+
+
+Languages and Tools I used most:
+ bash c cplusplus css3 docker firebase git android html5 java javascript jenkins kotlin kubernetes linux mongodb mysql nginx nodejs postgresql python react reactnative webpack
