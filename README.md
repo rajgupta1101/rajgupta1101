@@ -3,8 +3,7 @@
 
 ## I'm an Aspiring Fullstack Web Developer!!
 <!-- - 🔭 I am  -->
-- 🤔 I’m looking for help to create an open source project for Django Socket.io.
-- 🌱 I’m currently learning Algorithm 📚
+- 🌱 I’m currently learning React-Native 📚
 - 📙 Education: Pursuing **B.Tech** from **Nation Institute of Technology, Warangal**
 - 💬 Ask me about [JavaScript](https://www.javaScript.com), [React](https://reactjs.org).
 - ⚡ Fun fact: My hobby is also **coding**.
