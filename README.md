@@ -4,7 +4,7 @@
 ## I'm an Aspiring Fullstack Web Developer!!
 <!-- - 🔭 I am  -->
 - 🌱 I’m currently learning React-Native 📚
-- 📙 Education: Pursuing **B.Tech** from **Nation Institute of Technology, Warangal**
+- 📙 Education: Pursuing **B.Tech** from **National Institute of Technology, Warangal**
 - 💬 Ask me about [JavaScript](https://www.javaScript.com), [React](https://reactjs.org).
 - ⚡ Fun fact: My hobby is also **coding**.
 
