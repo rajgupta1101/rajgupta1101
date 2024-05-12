@@ -5,7 +5,7 @@
 <!-- - 🔭 I am  -->
 - 🌱 I’m currently learning React-Native 📚
 - 📙 Education: Pursuing **B.Tech** from **National Institute of Technology, Warangal**
-- 💬 Ask me about [JavaScript](https://www.javaScript.com), [React](https://reactjs.org).
+- 💬 Ask me about [JavaScript](https://www.javaScript.com), [React](https://reactjs.org), NextJS , Redux.
 - ⚡ Fun fact: My hobby is also **coding**.
 
 <br/>
